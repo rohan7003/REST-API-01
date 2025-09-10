@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-01",
+  "version": "1.0.0",
+  "description": "This is my REST API practice repo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
